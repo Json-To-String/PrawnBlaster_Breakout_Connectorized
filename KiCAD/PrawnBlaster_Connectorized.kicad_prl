@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "0021020_00000001",
+    "visible_layers": "00211ff_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "PrawnBlaster_Connectorized_smaller.kicad_prl",
+    "filename": "PrawnBlaster_Connectorized.kicad_prl",
     "version": 3
   },
   "project": {
